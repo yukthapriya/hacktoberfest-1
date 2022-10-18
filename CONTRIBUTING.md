@@ -2416,3 +2416,9 @@
 - Place: Chicago, IL, USA
 - Bio: Software tester, animal lover
 - GitHub: [Tunderlany](https://github.com/Tunderlany)
+
+#### Name: [yukthapriya](https://github.com/yukthapriya)
+
+-Place:Tirupati,India
+-Bio: Web Developer,Programmer
+-Github: [yukthapriya](https://github.com/yukthapriya)
